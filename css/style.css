@@ -125,3 +125,17 @@ body {
     }
 }
 
+.text p{
+    text-align: center;
+    font-size: 1.0em;
+}
+
+.text h1, h2{
+    text-align: center;
+}
+
+.contato{
+    display: flex;
+    text-align: center;
+}
+

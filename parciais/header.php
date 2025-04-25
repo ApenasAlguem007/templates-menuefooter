@@ -30,7 +30,7 @@
 
                 <li> <a href="/menuefooter-parciais/sobre.php"> Sobre</a></li>
 
-                <li> <a href="/menuefooter-parciais/servicos.php"> Servicos</a></li>
+                <li> <a href="/menuefooter-parciais/servicos.php"> Serviços</a></li>
 
                 <li> <a href="/menuefooter-parciais/contato.php"> Contato</a></li>
 
